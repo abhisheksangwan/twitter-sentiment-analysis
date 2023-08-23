@@ -3,15 +3,15 @@ Stock Recommendation System
 
 \
 
-============ =========== =======
-**Language** **Version** **IDE**
------------- ----------- -------
-Python       2.7         PyCharm
-============ =========== =======
+============ 
+**Language** 
+------------ 
+Python       
+============ 
 
 \
 
-This is a simple Python project that offers **stock investment recommendations** based on **Machine Learning** predictions from last year's values of any market symbol and also based on **Twitter sentiment analysis** from retrieved tweets containing the symbol as text inside of it.
+This simple Python project offers **stock investment recommendations** based on **Machine Learning** predictions from last year's values of any market symbol and also based on **Twitter sentiment analysis** from retrieved tweets containing the symbol as text inside of it.
 
 -----
 
@@ -205,6 +205,6 @@ Author & License
 
 **Head of Development**
 
-* `Álvaro Bartolomé del Canto <https://github.com/alvarob96>`_ - alvarob96@usal.es
+* `Abhishek Sangwan <https://github.com/abhisheksangwan>`_ - sangwanabhishek1020@gmail.com
 
 **twitter-stock-recommendation** is distributed under the **MIT License**. See the `LICENSE.txt <./LICENSE>`_ file in the release for details.
